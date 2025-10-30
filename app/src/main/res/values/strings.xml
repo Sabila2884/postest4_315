@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pendataan Warga</string>
+
+    <string-array name="status_array">
+        <item>Belum Menikah</item>
+        <item>Menikah</item>
+        <item>Cerai</item>
+    </string-array>
+</resources>
